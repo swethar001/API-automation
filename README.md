@@ -1,1 +1,2 @@
-# API-automation
+# API-test
+API automation using RestAssured
